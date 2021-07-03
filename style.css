@@ -1,0 +1,16 @@
+body{
+    font-family: 'Roboto Condensed', sans-serif;
+}
+.half-width{
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
+    background-image: url(images/top-banner.png);
+}
+.heading-highlight{
+    color: rgb(238, 128, 38);
+}
+.half-width img{
+    width: 100%;
+}
